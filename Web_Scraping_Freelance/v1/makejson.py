@@ -2,8 +2,8 @@ import json
 
 # Data to be written to the JSON file
 data = {
-    "email": "nadine.schlamm1983@proton.me",
-    "password": "bWdS4pg8Ngn6Sw",
+    "email": "",
+    "password": "",
     "token": "",
     "login_url": "https://www.northdata.com/rpc.json/user/login",
     "protected_url": "https://www.northdata.com/_selfcare",
