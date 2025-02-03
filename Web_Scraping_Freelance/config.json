@@ -1,0 +1,19 @@
+{
+    "email": "",
+    "password": "",
+    "search_segments": [
+        "keywords=",
+        "countries=DE",
+        "address=",
+        "coord=",
+        "bbox=",
+        "maxDistance=",
+        "distanceUnit=km",
+        "legalForm=",
+        "status=active",
+        "segmentCodeStandard=UKSIC",
+        "segmentCodes=",
+        "search=power"
+    ],
+    "output_file": "emails.txt"
+}
