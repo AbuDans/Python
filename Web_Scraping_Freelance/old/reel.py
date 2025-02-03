@@ -10,8 +10,8 @@ protected_url = 'https://profile.w3schools.com/plan-selection'  # Replace with t
 
 # Define login credentials
 login_data = {
-    'login': 'daniel_matar1@outlook.com',  # Replace with your actual username or email
-    'password': 'Mrgrowts1!'  # Replace with your actual password
+    'login': '',  # Replace with your actual username or email
+    'password': ''  # Replace with your actual password
 }
 
 def login_and_save_cookies():
