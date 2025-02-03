@@ -13,8 +13,8 @@ session = requests.Session()
 # Send a POST request to login
 login_url = 'https://profile.w3schools.com/login'  # Replace with the actual login URL
 login_data = {
-    'login': 'daniel_matar1@outlook.com',  # Replace with the actual form field names and values
-    'password': 'Mrgrowts1!'
+    'login': '',  # Replace with the actual form field names and values
+    'password': ''
 }
 
 response = session.post(login_url, data=login_data)
